@@ -1,3 +1,4 @@
 ##Python Dicttionay 
 
-* this program is all about building a dict with python and we would be using the following thio build our program. 
+* this program is all about building a dict with python and we would be using the following thio build our program.
+* this read me file was edited by prosper
